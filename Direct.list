@@ -7,6 +7,9 @@ DOMAIN-SUFFIX,checkip.synology.com,DIRECT
 DOMAIN-SUFFIX,checkipv6.synology.com,DIRECT
 DOMAIN-SUFFIX,checkport.synology.com,DIRECT
 
+# DDNSGO
+DOMAIN-SUFFIX,ipify.org,DIRECT
+
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
