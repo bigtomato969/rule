@@ -2,7 +2,7 @@
 
 #群晖DNS
 DOMAIN-SUFFIX,synology.com,DIRECT
-DOMAIN-SUFFIX,synology.com,DIRECT
+DOMAIN-SUFFIX,api.insight.synology.com
 DOMAIN-SUFFIX,quickconnect.to,DIRECT
 DOMAIN-SUFFIX,familyds.com,DIRECT
 DOMAIN-SUFFIX,orlp.lp.cs.quickconnect.to,DIRECT
