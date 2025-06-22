@@ -2,12 +2,15 @@
 
 #群晖DNS
 DOMAIN-SUFFIX,synology.com,DIRECT
-DOMAIN-SUFFIX,orlp.lp.cs.quickconnect.to
-DOMAIN-SUFFIX,account.synology.com
-DOMAIN-SUFFIX,ddns.synology.com
-DOMAIN-SUFFIX,checkip.synology.com
-DOMAIN-SUFFIX,checkipv6.synology.com
-DOMAIN-SUFFIX,checkport.synology.com
+DOMAIN-SUFFIX,synology.com,DIRECT
+DOMAIN-SUFFIX,quickconnect.to,DIRECT
+DOMAIN-SUFFIX,familyds.com,DIRECT
+DOMAIN-SUFFIX,orlp.lp.cs.quickconnect.to,DIRECT
+DOMAIN-SUFFIX,account.synology.com,DIRECT
+DOMAIN-SUFFIX,ddns.synology.com,DIRECT
+DOMAIN-SUFFIX,checkip.synology.com,DIRECT
+DOMAIN-SUFFIX,checkipv6.synology.com,DIRECT
+DOMAIN-SUFFIX,checkport.synology.com,DIRECT
 
 # DDNSGO
 DOMAIN-SUFFIX,ipify.org,DIRECT
