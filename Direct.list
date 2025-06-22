@@ -1,5 +1,13 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
+#群晖DNS
+DOMAIN-SUFFIX,orlp.lp.cs.quickconnect.to
+DOMAIN-SUFFIX,account.synology.com
+DOMAIN-SUFFIX,ddns.synology.com
+DOMAIN-SUFFIX,checkip.synology.com
+DOMAIN-SUFFIX,checkipv6.synology.com
+DOMAIN-SUFFIX,checkport.synology.com
+
 # DDNSGO
 DOMAIN-SUFFIX,ipify.org,DIRECT
 
