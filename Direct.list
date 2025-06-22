@@ -1,16 +1,16 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 #群晖DNS
-DOMAIN-SUFFIX,synology.com,DIRECT
-DOMAIN-SUFFIX,api.insight.synology.com
-DOMAIN-SUFFIX,quickconnect.to,DIRECT
-DOMAIN-SUFFIX,familyds.com,DIRECT
-DOMAIN-SUFFIX,orlp.lp.cs.quickconnect.to,DIRECT
-DOMAIN-SUFFIX,account.synology.com,DIRECT
-DOMAIN-SUFFIX,ddns.synology.com,DIRECT
-DOMAIN-SUFFIX,checkip.synology.com,DIRECT
-DOMAIN-SUFFIX,checkipv6.synology.com,DIRECT
-DOMAIN-SUFFIX,checkport.synology.com,DIRECT
+#DOMAIN-SUFFIX,synology.com,DIRECT
+#DOMAIN-SUFFIX,api.insight.synology.com
+#DOMAIN-SUFFIX,quickconnect.to,DIRECT
+#DOMAIN-SUFFIX,familyds.com,DIRECT
+#DOMAIN-SUFFIX,orlp.lp.cs.quickconnect.to,DIRECT
+#DOMAIN-SUFFIX,account.synology.com,DIRECT
+#DOMAIN-SUFFIX,ddns.synology.com,DIRECT
+#DOMAIN-SUFFIX,checkip.synology.com,DIRECT
+#DOMAIN-SUFFIX,checkipv6.synology.com,DIRECT
+#DOMAIN-SUFFIX,checkport.synology.com,DIRECT
 
 # DDNSGO
 DOMAIN-SUFFIX,ipify.org,DIRECT
