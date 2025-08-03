@@ -1,5 +1,5 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,tello.com
+#DOMAIN-SUFFIX,tello.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,raw.githubusercontent.com
